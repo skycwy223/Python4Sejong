@@ -35,7 +35,7 @@
 
 <img width="626" alt="step_3" src="https://user-images.githubusercontent.com/1378925/40343724-3b7f86be-5dcc-11e8-93fb-f794b8570a8f.png">
 
-2.강의 자료가 올라오는 원본 레파지토리를 remote 레파지토리로 추가  
+2. 강의 자료가 올라오는 원본 레파지토리를 remote 레파지토리로 추가  
 ("git remote add <이름> <원본 저장소>" 명령어를 사용하여 추가)
 
 remote 레파지토리 추가 전 화면>  
