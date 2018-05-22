@@ -2,10 +2,7 @@
 
 0. Overview, Preliminaries, Notebook, Ipython 
 1. Python Language Essentials
-2.	Python Language Essentials (continued)
-3.	NumPy Basics
-4.	NumPy (continued)
-5.	Pandas
-6.	Pandas (continued)
-7.	Visulaization
-8.	Data Aggregation and Group Operations
+2. NumPy
+3. Pandas
+4. Data Aggregation and Group Operations
+5. Visulaization
