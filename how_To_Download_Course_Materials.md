@@ -37,5 +37,5 @@
 
 2. "git pull"을 입력하면 변경 이력을 자동으로 검색해 새롭게 추가된 파일을 주피터 노트북 환경으로 다운로드 합니다.
 
-<img width="626" alt="step_6" src="https://user-images.githubusercontent.com/1378925/40344361-69cadb38-5dcf-11e8-8cf2-8e9e0743505c.PNG>
+<img width="626" alt="step_6" src="https://user-images.githubusercontent.com/1378925/40344677-d88ea27e-5dd0-11e8-8057-d91f6d24698b.PNG">
 
